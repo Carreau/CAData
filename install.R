@@ -1,5 +1,5 @@
-dataRetrieval
-EGRET
-zoo
-leaflet
-dplyr
+install.packages('dataRetrieval')
+install.packages('EGRET')
+install.packages('zoo')
+install.packages('leaflet')
+install.packages('dplyr')
